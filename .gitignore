@@ -1,4 +1,11 @@
 ./Deep-Reinforcement-Learning-Hands-On-Third-Edition
 ./todo.md
-./topics*
-./code*
+./topics/*
+./code/*
+.prettierrc
+.Rhistory
+.RData
+440px-Map_of_vrp_subproblems.jpg
+1024px-Metaheuristics_classification.svg.png
+BaPTree.dot
+cvrp_data.dat
