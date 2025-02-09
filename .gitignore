@@ -1,4 +1,4 @@
-./Deep-Reinforcement-Learning-Hands-On-Third-Edition
+Deep-Reinforcement-Learning
 ./todo.md
 ./topics/*
 ./code/*
@@ -9,3 +9,15 @@
 1024px-Metaheuristics_classification.svg.png
 BaPTree.dot
 cvrp_data.dat
+.Rproj*
+code/
+*Rproj
+data/
+*.png
+*.json
+*.md
+*.csv
+*Rmd
+*.html
+*.pt
+*.pyc
